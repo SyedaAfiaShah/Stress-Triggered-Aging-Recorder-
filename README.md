@@ -2,6 +2,11 @@
 ### *A molecular simulation framework to measure and visualize healthspan from cellular stress history*
 
 ---
+## Live Demo
+
+You can run the application online here:
+
+🔗 https://star-clock.streamlit.app/
 
 ## **Overview**
 The **Stress Triggered Aging Recorder (STAR)** models how engineered biological systems could record cellular stress over time, providing a digital snapshot of biological aging. While the simulation operates at the **cellular level**, its implications extend much further.  
