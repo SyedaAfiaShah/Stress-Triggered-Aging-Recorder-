@@ -1,5 +1,5 @@
-streamlit==1.39.0
-biopython>=1.83,<1.90
-pandas>=2.2.0,<2.3.0
-numpy>=1.25.0,<1.26.0
-matplotlib>=3.9.0,<3.10.0
+streamlit
+biopython
+pandas
+numpy
+matplotlib
